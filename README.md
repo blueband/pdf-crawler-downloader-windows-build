@@ -5,6 +5,7 @@ December 15, 2016.
 Acknowledgement:
 This work got some inspiration from Bucky's video tutorial on python (Particularly on Python Web Crawler Tutorial )available at his Youtube channel https://www.youtube.com/watch?v=nRW90GASSXE&list=PL6gx4Cwl9DGA8Vys-f48mAH9OKSUyav0q
 ****************************************************************
+This is a windows installer for pdf-crawler-downloader
 
 This Python App crawl some pupular search engine based on a given keyword and download all PDF files that the search engine return.
 
